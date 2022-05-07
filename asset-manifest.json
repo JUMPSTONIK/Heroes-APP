@@ -1,29 +1,21 @@
 {
   "files": {
-    "main.css": "/Heros-SPA/static/css/main.f32c1e5e.chunk.css",
-    "main.js": "/Heros-SPA/static/js/main.2ea9eb00.chunk.js",
-    "main.js.map": "/Heros-SPA/static/js/main.2ea9eb00.chunk.js.map",
+    "main.css": "/Heros-SPA/static/css/main.71a2a876.chunk.css",
+    "main.js": "/Heros-SPA/static/js/main.cd551a65.chunk.js",
+    "main.js.map": "/Heros-SPA/static/js/main.cd551a65.chunk.js.map",
     "runtime-main.js": "/Heros-SPA/static/js/runtime-main.c598b134.js",
     "runtime-main.js.map": "/Heros-SPA/static/js/runtime-main.c598b134.js.map",
-    "static/js/2.1b5ad771.chunk.js": "/Heros-SPA/static/js/2.1b5ad771.chunk.js",
-    "static/js/2.1b5ad771.chunk.js.map": "/Heros-SPA/static/js/2.1b5ad771.chunk.js.map",
+    "static/js/2.06dbec4d.chunk.js": "/Heros-SPA/static/js/2.06dbec4d.chunk.js",
+    "static/js/2.06dbec4d.chunk.js.map": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.map",
     "index.html": "/Heros-SPA/index.html",
-    "static/css/main.f32c1e5e.chunk.css.map": "/Heros-SPA/static/css/main.f32c1e5e.chunk.css.map",
-    "static/js/2.1b5ad771.chunk.js.LICENSE.txt": "/Heros-SPA/static/js/2.1b5ad771.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Heros-SPA/static/media/Poppins-Regular.8081832f.ttf",
-    "static/media/arrow-up.52a817c4.svg": "/Heros-SPA/static/media/arrow-up.52a817c4.svg",
-    "static/media/big-heart.7a56eb6f.svg": "/Heros-SPA/static/media/big-heart.7a56eb6f.svg",
-    "static/media/fist.ef1efd00.svg": "/Heros-SPA/static/media/fist.ef1efd00.svg",
-    "static/media/logo.a362268c.svg": "/Heros-SPA/static/media/logo.a362268c.svg",
-    "static/media/medium-filled-heart.3dfc1f11.svg": "/Heros-SPA/static/media/medium-filled-heart.3dfc1f11.svg",
-    "static/media/medium-heart.bcc1eda8.svg": "/Heros-SPA/static/media/medium-heart.bcc1eda8.svg",
-    "static/media/search.cec9b51e.svg": "/Heros-SPA/static/media/search.cec9b51e.svg",
-    "static/media/small-heart.ba7f3b21.svg": "/Heros-SPA/static/media/small-heart.ba7f3b21.svg"
+    "static/css/main.71a2a876.chunk.css.map": "/Heros-SPA/static/css/main.71a2a876.chunk.css.map",
+    "static/js/2.06dbec4d.chunk.js.LICENSE.txt": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Heros-SPA/static/media/Poppins-Regular.8081832f.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.c598b134.js",
-    "static/js/2.1b5ad771.chunk.js",
-    "static/css/main.f32c1e5e.chunk.css",
-    "static/js/main.2ea9eb00.chunk.js"
+    "static/js/2.06dbec4d.chunk.js",
+    "static/css/main.71a2a876.chunk.css",
+    "static/js/main.cd551a65.chunk.js"
   ]
 }
