@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Heros-SPA/static/css/main.71a2a876.chunk.css",
-    "main.js": "/Heros-SPA/static/js/main.cd551a65.chunk.js",
-    "main.js.map": "/Heros-SPA/static/js/main.cd551a65.chunk.js.map",
-    "runtime-main.js": "/Heros-SPA/static/js/runtime-main.c598b134.js",
-    "runtime-main.js.map": "/Heros-SPA/static/js/runtime-main.c598b134.js.map",
-    "static/js/2.06dbec4d.chunk.js": "/Heros-SPA/static/js/2.06dbec4d.chunk.js",
-    "static/js/2.06dbec4d.chunk.js.map": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.map",
-    "index.html": "/Heros-SPA/index.html",
-    "static/css/main.71a2a876.chunk.css.map": "/Heros-SPA/static/css/main.71a2a876.chunk.css.map",
-    "static/js/2.06dbec4d.chunk.js.LICENSE.txt": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Heros-SPA/static/media/Poppins-Regular.8081832f.ttf"
+    "main.css": "/Heroes-app/static/css/main.f5eca80d.chunk.css",
+    "main.js": "/Heroes-app/static/js/main.fbeae34f.chunk.js",
+    "main.js.map": "/Heroes-app/static/js/main.fbeae34f.chunk.js.map",
+    "runtime-main.js": "/Heroes-app/static/js/runtime-main.87f85970.js",
+    "runtime-main.js.map": "/Heroes-app/static/js/runtime-main.87f85970.js.map",
+    "static/js/2.dbaaa711.chunk.js": "/Heroes-app/static/js/2.dbaaa711.chunk.js",
+    "static/js/2.dbaaa711.chunk.js.map": "/Heroes-app/static/js/2.dbaaa711.chunk.js.map",
+    "index.html": "/Heroes-app/index.html",
+    "static/css/main.f5eca80d.chunk.css.map": "/Heroes-app/static/css/main.f5eca80d.chunk.css.map",
+    "static/js/2.dbaaa711.chunk.js.LICENSE.txt": "/Heroes-app/static/js/2.dbaaa711.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Heroes-app/static/media/Poppins-Regular.8081832f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c598b134.js",
-    "static/js/2.06dbec4d.chunk.js",
-    "static/css/main.71a2a876.chunk.css",
-    "static/js/main.cd551a65.chunk.js"
+    "static/js/runtime-main.87f85970.js",
+    "static/js/2.dbaaa711.chunk.js",
+    "static/css/main.f5eca80d.chunk.css",
+    "static/js/main.fbeae34f.chunk.js"
   ]
 }
