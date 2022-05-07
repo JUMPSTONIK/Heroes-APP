@@ -18,7 +18,7 @@ const LowerSection = (props: LowerSectioProps) => {
     <Card
       key={superHero.id.toString()}
       hero={superHero}
-      hadleFavorite={props.handleFavorite}
+      isFavorite={false}
     />
   ));
 
