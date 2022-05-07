@@ -166,6 +166,14 @@ body {
 .big-heart {
     height: 33px;
     width: 34px;
+    justify-self: center;
+}
+
+.Favorite-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
 }
 
 .favorite-text {
