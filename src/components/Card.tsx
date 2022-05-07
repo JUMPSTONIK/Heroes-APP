@@ -3,7 +3,9 @@ import { HeroCardData } from "../helpers/getHeroes";
 import { useObserver } from "mobx-react-lite";
 import { useEffect, useRef, useContext } from "react";
 import { StoreContext } from "../helpers/storeContext";
-
+import fist from "../assets/fist/fist.svg"
+import medium_filled_heart from "../assets/medium-filled-heart/medium-filled-heart.svg"
+import medium_empty_heart from "../assets/medium-heart/medium-heart.svg"
 interface CardProps {
     hero: HeroCardData;
     isFavorite: boolean;
@@ -72,8 +74,8 @@ const Card = (props: CardProps) => {
                                     }
                                     src={
                                         props.isFavorite
-                                            ? "./assets/medium-filled-heart/medium-filled-heart.svg"
-                                            : "./assets/small-heart/small-heart.svg"
+                                            ? medium_filled_heart
+                                            : medium_empty_heart
                                     }
                                     alt="little heart"
                                 />
@@ -90,7 +92,7 @@ const Card = (props: CardProps) => {
                             <div className="rank-space">
                                 <img
                                     className="fist"
-                                    src="./assets/fist/fist.svg"
+                                    src={fist}
                                     alt="fist of ranking"
                                 />
                                 <div className="rank">
