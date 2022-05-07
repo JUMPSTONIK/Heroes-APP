@@ -3,9 +3,12 @@ import { HeroCardData } from "../helpers/getHeroes";
 import { useObserver } from "mobx-react-lite";
 import { useEffect, useRef, useContext } from "react";
 import { StoreContext } from "../helpers/storeContext";
-import fist from "../assets/fist/fist.svg"
-import medium_filled_heart from "../assets/medium-filled-heart/medium-filled-heart.svg"
-import medium_empty_heart from "../assets/medium-heart/medium-heart.svg"
+// import fist from "../assets/fist/fist.svg"
+// import medium_filled_heart from "../assets/medium-filled-heart/medium-filled-heart.svg"
+// import medium_empty_heart from "../assets/medium-heart/medium-heart.svg"
+import Fist from "./svgs/Fist";
+import MediumFilledHeart from "./svgs/MediumFilledHeart";
+import MediumHeart from "./svgs/MediumHeart";
 interface CardProps {
     hero: HeroCardData;
     isFavorite: boolean;
@@ -66,7 +69,7 @@ const Card = (props: CardProps) => {
                                     store.handleFavorite(props.hero);
                                 }}
                             >
-                                <img
+                                {/* <img
                                     className={
                                         props.isFavorite
                                             ? "mediumHeart-filled"
@@ -78,7 +81,10 @@ const Card = (props: CardProps) => {
                                             : medium_empty_heart
                                     }
                                     alt="little heart"
-                                />
+                                /> */}
+                                {props.isFavorite ?
+                                <MediumFilledHeart className='mediumHeart-filled'/>:
+                                <MediumHeart className='mediumHeart'/>}
                             </button>
                         </div>
                         <div className="heroesContent">
@@ -90,11 +96,12 @@ const Card = (props: CardProps) => {
                                 Real Name: {props.hero.realName}
                             </div>
                             <div className="rank-space">
-                                <img
+                                {/* <img
                                     className="fist"
                                     src={fist}
                                     alt="fist of ranking"
-                                />
+                                /> */}
+                                <Fist className='fist'/>
                                 <div className="rank">
                                     <strong>{props.hero.powerStat}</strong> / 10
                                 </div>

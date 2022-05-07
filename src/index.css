@@ -369,18 +369,18 @@ strong {
 
 .mediumHeart {
     position: absolute;
-    height: 13.33px;
-    width: 14px;
-    left: 17px;
-    top: 18px;
+    height: 17px;
+    width: 17px;
+    left: 16px;
+    top: 17px;
 }
 
 .mediumHeart-filled {
     position: absolute;
-    height: 13.33px;
-    width: 14px;
-    left: 17px;
-    top: 18px;
+    height: 17px;
+    width: 17px;
+    left: 16px;
+    top: 17px;
     fill: rgb(255, 0, 0);
 }
 

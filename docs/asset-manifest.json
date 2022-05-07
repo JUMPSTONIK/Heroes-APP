@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Heros-SPA/static/css/main.71a2a876.chunk.css",
+    "main.js": "/Heros-SPA/static/js/main.cd551a65.chunk.js",
+    "main.js.map": "/Heros-SPA/static/js/main.cd551a65.chunk.js.map",
+    "runtime-main.js": "/Heros-SPA/static/js/runtime-main.c598b134.js",
+    "runtime-main.js.map": "/Heros-SPA/static/js/runtime-main.c598b134.js.map",
+    "static/js/2.06dbec4d.chunk.js": "/Heros-SPA/static/js/2.06dbec4d.chunk.js",
+    "static/js/2.06dbec4d.chunk.js.map": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.map",
+    "index.html": "/Heros-SPA/index.html",
+    "static/css/main.71a2a876.chunk.css.map": "/Heros-SPA/static/css/main.71a2a876.chunk.css.map",
+    "static/js/2.06dbec4d.chunk.js.LICENSE.txt": "/Heros-SPA/static/js/2.06dbec4d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Heros-SPA/static/media/Poppins-Regular.8081832f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c598b134.js",
+    "static/js/2.06dbec4d.chunk.js",
+    "static/css/main.71a2a876.chunk.css",
+    "static/js/main.cd551a65.chunk.js"
+  ]
+}
