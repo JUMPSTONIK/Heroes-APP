@@ -1,7 +1,7 @@
 # Heroes APP
 
 before visit the next link with the project online is necesary to get temporary access to the API. Click in the next [link](https://cors-anywhere.herokuapp.com/corsdemo) and in the button 
-### `Resques temporary access to the demo server`
+### `Resquest temporary access to the demo server`
 
 
 # Project deployed in Netlify
