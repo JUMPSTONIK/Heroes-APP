@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project you can search between all the superheroes to select them and add it to your favorite list. This project was created to practice using React, Typescript, Mobx and how to fetch and show data from an API. This project was done with all Marvel and DC supeheroes data from the public superheroes API.
+In this project you can search between all the superheroes and add them to your favorite list. This project was created to practice using React, Typescript, Mobx and how to fetch and show data from an API. This project was done with all Marvel and DC supeheroes data from the public superheroes API.
 
 before visit the next link with the project online is necesary to get temporary access to the API. Click in the next [link](https://cors-anywhere.herokuapp.com/corsdemo) and in the button 
 ### `Resquest temporary access to the demo server`
