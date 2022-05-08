@@ -4,12 +4,12 @@ before visit the next link with the project online is necesary to get temporary 
 ### `Resques temporary access to the demo server`
 
 
-# Project deploy in Netlify
+# Project deployed in Netlify
 ### https://627747406b4b2b01584a74a5--resilient-brioche-d5bf32.netlify.app/
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can use the next commands to run the project locally:
 
 ### `npm start`
 
