@@ -9,7 +9,7 @@ before visit the next link with the project online is necesary to get temporary 
 
 
 # Project deployed in Netlify
-### https://627747406b4b2b01584a74a5--jumpstonik-heroes-app.netlify.app/
+### https://jumpstonik-heroes-app.netlify.app/
 
 ## Available Scripts
 
